@@ -1,0 +1,11 @@
+.final-text {
+ height: 50px;
+ margin-top: 910px;
+ display: flex;
+ justify-content: center;
+}
+.Copyright {
+color: #a5aab2;
+font-family: 'Roboto';
+font-size: 13px;
+}

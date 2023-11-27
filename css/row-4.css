@@ -1,0 +1,27 @@
+.row-4 {
+position: absolute;
+left: 0;
+ right: 0;
+ margin-top: 380px;
+ background-color: #e5e7eb;
+ padding-bottom: 90px;
+ padding-top: 60px;
+ padding-left: 95px;
+ padding-right: 95px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+}
+.row-4 em {
+    font-size: 25px;
+    font-weight: lighter;
+    font-family: 'Roboto';
+    color: rgb(122, 122, 122);
+   
+}
+.row-4 p {
+ align-self: flex-end;
+ padding-right: 100px;
+ font-weight: bolder;
+ font-family: 'Roboto';
+}

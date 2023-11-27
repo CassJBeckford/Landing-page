@@ -1,0 +1,46 @@
+.logo {
+    height: 150px;
+    width: 150px;
+}
+.header {
+    display: flex;
+    padding-bottom: 50px;
+    justify-content: space-between;
+    font-family: 'Roboto';
+}
+.Header-one {
+ font-size: 16px;
+ font-weight: bold;
+ flex-shrink: 0;
+ color: white;
+}
+.Header-two {
+ font-size: 15px;
+ flex-shrink: 0;
+ color: rgb(162, 162, 162);
+ cursor: pointer;
+}
+
+.Home:hover {
+    color: white;
+}
+
+.About:hover {
+    color: white;
+}
+
+.Contact:hover {
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    margin-right: 15px;
+}
+
+
